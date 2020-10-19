@@ -11,7 +11,7 @@
   * Next, the setup script will give you a Google link and ask for a secret
   * Follow the link, authorize the script to use the API, and receive the secret
   * Paste the secret back into the setup script's prompt
-  * [Copy the provided python code into the g_socks.py file below "# PASTE NEW CREDENTIALS HERE"](https://github.com/somaliz/g_socks/blob/master/g_socks.py#L28)
+  * [Copy the provided python code into the g_socks.py file below "# PASTE NEW CREDENTIALS HERE"](https://github.com/somaliz/g-socks/blob/main/g_socks.py#L28)
   * [Enable the Google Drive API](https://console.developers.google.com/apis/api/drive.googleapis.com/overview)
   * All done!
 * Read the help information here: "python ./g_socks.py -h"
